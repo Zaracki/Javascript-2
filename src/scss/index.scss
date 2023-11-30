@@ -1,13 +1,1 @@
-$blue: #3c26b9;
-
-* {
-  background-color: $blue;
-}
-
-
-// Theme colors
-
-$primary: #E69023;
-$success: #82dd55;
-$error: #e23636;
-$warning: #edb95e;
+@import "variables";
