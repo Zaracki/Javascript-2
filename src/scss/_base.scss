@@ -5,8 +5,11 @@
 }
 
 body {
-  font-family: Poppins;
+  background: linear-gradient(180deg, #E69023 0%, #BF5002 100%);
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
+
 
 ul {
   padding: 0;
