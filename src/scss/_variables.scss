@@ -4,3 +4,35 @@ $primary: #E69023;
 $success: #82dd55;
 $error: #e23636;
 $warning: #edb95e;
+
+// color palette
+$colors: (
+  "primary": $primary,
+  "success": $success,
+  "error": $error,
+  "warning": $warning,
+  "blue": #1919e6,
+  "red": #e61919,
+  "yellow": #e6e619,
+  "green": #19e635,
+  "orange": #ffa600,
+  "purple": #9900ff,
+  "gray": #808080,
+  "black": black,
+  "white": white,
+);
+
+
+// font sizes
+$base-font-size: 1rem;
+
+// box-shadow
+$base-box-shadow: 0px 0px 10px -2px rgba(0, 0, 0, 0.25);
+
+// spacing
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+// borders
+$base-border-radius: 20px;
+$base-border-thickness: 1px;

@@ -1,0 +1,13 @@
+.card {
+  display: block;
+  box-shadow: $base-box-shadow;
+  max-width: 493px;
+
+  .card-title {
+    font-size: $base-font-size;
+  }
+
+  .card-body {
+    font-size: $base-font-size;
+  }
+}
